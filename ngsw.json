@@ -1,0 +1,143 @@
+{
+  "configVersion": 1,
+  "timestamp": 1685073631771,
+  "index": "https://joaquine7.github.io/avancepwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://joaquine7.github.io/avancepwa/119.3d0657c902e7cd50.js",
+        "https://joaquine7.github.io/avancepwa/227.4fa7ee690300c44f.js",
+        "https://joaquine7.github.io/avancepwa/259.689042e039cf8556.js",
+        "https://joaquine7.github.io/avancepwa/576.aef54e1e0e2546c1.js",
+        "https://joaquine7.github.io/avancepwa/999.bb3601c08d7ed582.js",
+        "https://joaquine7.github.io/avancepwa/favicon.ico",
+        "https://joaquine7.github.io/avancepwa/index.html",
+        "https://joaquine7.github.io/avancepwa/main.f780932af0493507.js",
+        "https://joaquine7.github.io/avancepwa/manifest.webmanifest",
+        "https://joaquine7.github.io/avancepwa/polyfills.6f6b7da001b7cced.js",
+        "https://joaquine7.github.io/avancepwa/runtime.a35a10ecfbd35935.js",
+        "https://joaquine7.github.io/avancepwa/scripts.81cfaa39db283f26.js",
+        "https://joaquine7.github.io/avancepwa/styles.415afa61911bade6.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://joaquine7.github.io/avancepwa/assets/Beeg_Sana.JPG",
+        "https://joaquine7.github.io/avancepwa/assets/ajena.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/caleb1.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/caleb2.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/carretera.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/cartadeamor.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/cvm.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/ethienne1.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/ethienne2.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/frank1.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/frank2.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/gerardo1.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/hc.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/icons/icon-128x128.png",
+        "https://joaquine7.github.io/avancepwa/assets/icons/icon-144x144.png",
+        "https://joaquine7.github.io/avancepwa/assets/icons/icon-152x152.png",
+        "https://joaquine7.github.io/avancepwa/assets/icons/icon-192x192.png",
+        "https://joaquine7.github.io/avancepwa/assets/icons/icon-384x384.png",
+        "https://joaquine7.github.io/avancepwa/assets/icons/icon-512x512.png",
+        "https://joaquine7.github.io/avancepwa/assets/icons/icon-72x72.png",
+        "https://joaquine7.github.io/avancepwa/assets/icons/icon-96x96.png",
+        "https://joaquine7.github.io/avancepwa/assets/joaquin1.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/logo.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/logo2.jpeg",
+        "https://joaquine7.github.io/avancepwa/assets/logo3.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/logo4.png",
+        "https://joaquine7.github.io/avancepwa/assets/pc.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/pv.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/sala.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/sala2 - copia.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/sala2.jpg",
+        "https://joaquine7.github.io/avancepwa/assets/vc.jpg",
+        "https://joaquine7.github.io/avancepwa/sala2.7a2da89fedbafa8c.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://joaquine7.github.io/avancepwa/119.3d0657c902e7cd50.js": "96ed3643d2bc746963c7367281b0ec205602402f",
+    "https://joaquine7.github.io/avancepwa/227.4fa7ee690300c44f.js": "afaea4921a25fb245a8f6304a35f5f1b852c522d",
+    "https://joaquine7.github.io/avancepwa/259.689042e039cf8556.js": "13e6973228697994cc04b4c52712716add517784",
+    "https://joaquine7.github.io/avancepwa/576.aef54e1e0e2546c1.js": "8261d12761212ca8e77111afc36680367460cb12",
+    "https://joaquine7.github.io/avancepwa/999.bb3601c08d7ed582.js": "ed8f8506eb76ae2e60a60fe810c34b1818781a2d",
+    "https://joaquine7.github.io/avancepwa/assets/Beeg_Sana.JPG": "59d4356901859117c8aef94cf44c352820588d14",
+    "https://joaquine7.github.io/avancepwa/assets/ajena.jpeg": "a73589eb4bf1c40ce57754b65c503eb54ee8c524",
+    "https://joaquine7.github.io/avancepwa/assets/caleb1.jpeg": "beb9044367211cee80029d80d46b58a0c4695735",
+    "https://joaquine7.github.io/avancepwa/assets/caleb2.jpeg": "ea628c0ea2803b6466f14c6d6066f12e13def51c",
+    "https://joaquine7.github.io/avancepwa/assets/carretera.jpeg": "180e3a134316540472e886964e0a3cfb1a247f4b",
+    "https://joaquine7.github.io/avancepwa/assets/cartadeamor.jpeg": "d8bcbfac3a4f0608c0fc3d23b914c6b7fb4190c4",
+    "https://joaquine7.github.io/avancepwa/assets/cvm.jpg": "8b898bfcf9e5ed187d40fde415f42d3b46d7e368",
+    "https://joaquine7.github.io/avancepwa/assets/ethienne1.jpeg": "4f56574dde982d974a3ee7a42ffe2b9b082f25ba",
+    "https://joaquine7.github.io/avancepwa/assets/ethienne2.jpeg": "e9e4389f465db730e3d96d90778c72c9b222e492",
+    "https://joaquine7.github.io/avancepwa/assets/frank1.jpeg": "77f404162f81f2b35f9032a5573fb981b815a816",
+    "https://joaquine7.github.io/avancepwa/assets/frank2.jpeg": "9cfbc1f6668c7459dc401bc2d23cf4dae844d91e",
+    "https://joaquine7.github.io/avancepwa/assets/gerardo1.jpg": "c7c75882a33140d3d41da564fe529eb504688201",
+    "https://joaquine7.github.io/avancepwa/assets/hc.jpg": "9351ba4d563534184f592b37ad28b092fc617a6d",
+    "https://joaquine7.github.io/avancepwa/assets/icons/icon-128x128.png": "82407e9d8b847e54d388f5e48e2a06720d324873",
+    "https://joaquine7.github.io/avancepwa/assets/icons/icon-144x144.png": "b54c323f7b2a694b1e65147efe7456446ffa6d94",
+    "https://joaquine7.github.io/avancepwa/assets/icons/icon-152x152.png": "288dfbcd89e13fc82d32c4ec947d0ebc42a0f663",
+    "https://joaquine7.github.io/avancepwa/assets/icons/icon-192x192.png": "0b3e86463a5d88a8829d1c5d38d25b2708e6fd66",
+    "https://joaquine7.github.io/avancepwa/assets/icons/icon-384x384.png": "0400cc06efdcd42eb1d63210727cf2ccab3959e0",
+    "https://joaquine7.github.io/avancepwa/assets/icons/icon-512x512.png": "ba23d0e61c407dd237f6e1ffab84cf9cd415d95e",
+    "https://joaquine7.github.io/avancepwa/assets/icons/icon-72x72.png": "6fe49198d34bd8d7b54a544ddfaf734fc889a5a8",
+    "https://joaquine7.github.io/avancepwa/assets/icons/icon-96x96.png": "c329777a088b496edeacf7ac46dbe1bf988805de",
+    "https://joaquine7.github.io/avancepwa/assets/joaquin1.jpg": "0764d5e871a68f79a64e8ea1d01a1ce2c80620c6",
+    "https://joaquine7.github.io/avancepwa/assets/logo.jpeg": "c58cef326cb6925a23d6107bb390dd13edf54381",
+    "https://joaquine7.github.io/avancepwa/assets/logo2.jpeg": "83ca0dcb34a996df67b2c76cb88de31d4c567904",
+    "https://joaquine7.github.io/avancepwa/assets/logo3.jpg": "779a443e76baad98ea33af477b563ef30ebf5d0b",
+    "https://joaquine7.github.io/avancepwa/assets/logo4.png": "a7372ec4b41fba1463c862408f9f8de28498a737",
+    "https://joaquine7.github.io/avancepwa/assets/pc.jpg": "fbfdede95837851f70dd84f27a49821f8aab2f9d",
+    "https://joaquine7.github.io/avancepwa/assets/pv.jpg": "7c69497d08b1f4f125c8bb5a2b03b09337c9631e",
+    "https://joaquine7.github.io/avancepwa/assets/sala.jpg": "dfaa9179c8ba51be03217695efef336ba2082b27",
+    "https://joaquine7.github.io/avancepwa/assets/sala2 - copia.jpg": "67156792adc561eeb32a20f0f0d5705af1e05513",
+    "https://joaquine7.github.io/avancepwa/assets/sala2.jpg": "40c80013ad88c81e750b7e3910cd2cceee30d0cb",
+    "https://joaquine7.github.io/avancepwa/assets/vc.jpg": "01338d3b8f88597940147f253b607c42d11e3d26",
+    "https://joaquine7.github.io/avancepwa/favicon.ico": "6003f537a13598da889540cccdaa0291b7ce971a",
+    "https://joaquine7.github.io/avancepwa/index.html": "0adf4e0c73383518163678adc8ae88eeb28c666b",
+    "https://joaquine7.github.io/avancepwa/main.f780932af0493507.js": "ca4d5e2b7e84094c4d67c821c3a4543b625c8d13",
+    "https://joaquine7.github.io/avancepwa/manifest.webmanifest": "a443f4efa666bcd0003f2c299ac4f19e2663be5e",
+    "https://joaquine7.github.io/avancepwa/polyfills.6f6b7da001b7cced.js": "f2d719f48bffb4f1a8fac8a1b47a766dc1e9a57f",
+    "https://joaquine7.github.io/avancepwa/runtime.a35a10ecfbd35935.js": "f6dd9e1d54b7acc63fef0ca39c53bfe62cbd741d",
+    "https://joaquine7.github.io/avancepwa/sala2.7a2da89fedbafa8c.jpg": "40c80013ad88c81e750b7e3910cd2cceee30d0cb",
+    "https://joaquine7.github.io/avancepwa/scripts.81cfaa39db283f26.js": "cc8631c602bdc6e2bffc80b318384a1bc5fb7b86",
+    "https://joaquine7.github.io/avancepwa/styles.415afa61911bade6.css": "6da16217cedc999cdbab94b6db608ae9e39d4e12"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
